@@ -1,4 +1,4 @@
-package _01Array;
+package testpm;
 
 public class _01문제 {
 
