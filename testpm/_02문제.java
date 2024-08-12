@@ -60,7 +60,7 @@ public class _02문제 {
 			if(lotto[5] %2==0) {
 				sum += lotto[5];
 			}
-			System.out.println("짝수");
+			System.out.println(sum);
 		
 			
 		// 문제 5

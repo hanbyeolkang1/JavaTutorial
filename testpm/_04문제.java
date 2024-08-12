@@ -52,15 +52,62 @@ public class _04문제 {
 				System.out.print(i+",");
 			}
 		}
+				System.out.println(" ");
 		// 문제 7
 		
 		for(int i = 0; i < 7; i++) {
-		
-			System.out.println(i);
+			if(i %2==1) {
+				sum += i;
+			}
+			if(i %2==1) {
+				sum += i;
+			}
+			if(i %2==1) {
+				sum += i;
+			}
+			if(i %2==0) {
+				sum += i;
+			}
+			if(i %2==1) {
+				sum += i;
+			}
+			if(i %2==0) {
+				sum += i;
+			}
+			if(i %2==0) {
+				sum += i;
+				
+			}
 		}
+			System.out.println(sum);	
 		// 문제 8
-		
-		
+		int cnt = 0;
+		for(int i = 0; i < 7; i++) {
+			if(i %2==0) {
+				cnt += i;
+			}
+			
+				System.out.println(cnt);
+			}
+			
+			
+		}
+				
+				
+		// 문제 13
+		int[] arr1 = {1,2,3,0,0,0,1,2,2,4,2,2,2,2,2,0,0,0,0,0,3,3};
+		int arrlength = 1;
+		int maxlength = 0;
+		int cnt = 0;
+		for(int i = 0; i < arrlength; i ++) {
+			if(arr1[i]==0) {
+				cnt ++;
+			}else { cnt = 0; {
+				maxlength = cnt; {
+					System.out.println(maxlength);
+				}
+			}
+		}
 	}
-
+	}
 }
