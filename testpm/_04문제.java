@@ -91,23 +91,27 @@ public class _04문제 {
 			}
 			
 			
-		}
+		 }
 				
 				
-		// 문제 13
+		/* 문제 13
 		int[] arr1 = {1,2,3,0,0,0,1,2,2,4,2,2,2,2,2,0,0,0,0,0,3,3};
 		int arrlength = 1;
 		int maxlength = 0;
-		int cnt = 0;
+		int cnt = 0
+		
+		
 		for(int i = 0; i < arrlength; i ++) {
 			if(arr1[i]==0) {
 				cnt ++;
 			}else { cnt = 0; {
 				maxlength = cnt; {
 					System.out.println(maxlength);
+					
 				}
 			}
 		}
+	} 
 	}
-	}
+	*/
 }
