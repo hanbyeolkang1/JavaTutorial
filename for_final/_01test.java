@@ -13,7 +13,7 @@ public class _01test {
 		for (int i = 0; i < 8; i++) {
 			if (letter[i] > maxvalue) {
 				maxvalue = letter[i];
-				maxindex = i;
+				maxindex = letter[i];
 
 			}
 
