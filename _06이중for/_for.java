@@ -18,7 +18,7 @@ public class _for {
 
 		1 x 1=1
 		1 x 2=2		for(int i = 0; i < 5; i++) {
-		1 x 3=3			sysout("1 x"+ i"="+(i*i);
+		1 x 3=3			sysout("1 x"+ i+"="+(i*i);
 		1 x 4=4			         1   x  1
 
 */
